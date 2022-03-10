@@ -9,9 +9,6 @@ import RestaurantItems, {
 } from "../components/RestaurantItems";
 import { YELP_API_KEY } from "@env";
 
-// const YELP_API_KEY =
-//   "4pRFa3TC3HKeoTdRFTq8d9F0KSpVrPkzjRuC7JhZHQKwgTxWxk9Ck_govox6tnxy4zuIfJpIpdBjXn5R8DtFjVM8kPeyPEHvvLXnZna7BdarU0YIpRWUbn5b7YgoYnYx";
-
 export default function Home() {
   const [restaurantData, setRestaurantData] = useState(localRestaurants);
   const [city, setCity] = useState("San Fransisco");
