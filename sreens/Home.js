@@ -1,9 +1,10 @@
-import { View, SafeAreaView, Text } from "react-native";
+import { View, SafeAreaView, ScrollView, Text } from "react-native";
 import React from "react";
 import HeaderTabs from "../components/HeaderTabs";
 import {} from "@expo/vector-icons";
 import SearchBar from "../components/SearchBar";
 import Categories from "../components/Categories";
+import RestaurantItem from "../components/RestaurantItem";
 
 export default function Home() {
   return (
@@ -12,7 +13,10 @@ export default function Home() {
         <HeaderTabs />
         <SearchBar />
       </View>
-      <Categories />
+      <ScrollView showsVerticalScrollIndicator={false}>
+        <Categories />
+        <RestaurantItem />
+      </ScrollView>
     </SafeAreaView>
   );
 }
