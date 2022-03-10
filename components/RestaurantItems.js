@@ -32,7 +32,7 @@ export const localRestaurants = [
   },
 ];
 
-export default function RestaurantItem() {
+export default function RestaurantItems() {
   return (
     <TouchableOpacity activeOpacity={1} style={{ marginBottom: 30 }}>
       {localRestaurants.map((restaurant, index) => (
