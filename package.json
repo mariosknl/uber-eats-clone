@@ -11,7 +11,7 @@
     "react-native-web": "0.19.4"
   },
   "devDependencies": {
-    "@babel/core": "7.22.1"
+    "@babel/core": "7.22.5"
   },
   "scripts": {
     "start": "expo start",
