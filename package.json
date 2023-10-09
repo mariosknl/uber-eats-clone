@@ -3,7 +3,7 @@
     "@react-navigation/native": "6.1.8",
     "@react-navigation/stack": "6.3.18",
     "react-native-dotenv": "3.4.9",
-    "react-native-google-places-autocomplete": "2.5.3",
+    "react-native-google-places-autocomplete": "2.5.6",
     "react-native-gesture-handler": "2.13.1",
     "react-native-safe-area-context": "4.7.2",
     "react-native-screens": "3.25.0",
