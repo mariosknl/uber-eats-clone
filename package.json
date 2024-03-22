@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@react-navigation/native": "6.1.14",
-    "@react-navigation/stack": "6.3.25",
+    "@react-navigation/native": "6.1.17",
+    "@react-navigation/stack": "6.3.29",
     "react-native-dotenv": "3.4.11",
     "react-native-google-places-autocomplete": "2.5.6",
     "react-native-gesture-handler": "2.15.0",
