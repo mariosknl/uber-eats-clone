@@ -306,19 +306,19 @@
     use-latest-callback "^0.2.4"
     use-sync-external-store "^1.5.0"
 
-"@react-navigation/elements@^2.6.4":
-  version "2.6.4"
-  resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-2.6.4.tgz#f1dc8548b1289588fabcd2f0342c1391c689a49f"
-  integrity sha512-O3X9vWXOEhAO56zkQS7KaDzL8BvjlwZ0LGSteKpt1/k6w6HONG+2Wkblrb057iKmehTkEkQMzMLkXiuLmN5x9Q==
+"@react-navigation/elements@^2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-2.7.0.tgz#1d340b8815f9cea48cd48a9a0f079662fb0db943"
+  integrity sha512-lqlUUTqzKJrm3WYmiy901DSpa5wW8DWSmqNqWlRFWDVjx6SSjOUThQpdMnVXhydPtrTo74yVUPB27oe/jrvo4Q==
   dependencies:
     color "^4.2.3"
     use-latest-callback "^0.2.4"
     use-sync-external-store "^1.5.0"
 
-"@react-navigation/native@7.1.17":
-  version "7.1.17"
-  resolved "https://registry.yarnpkg.com/@react-navigation/native/-/native-7.1.17.tgz#88d557c0f5000aa2741e4368c59719526f1394c4"
-  integrity sha512-uEcYWi1NV+2Qe1oELfp9b5hTYekqWATv2cuwcOAg5EvsIsUPtzFrKIasgUXLBRGb9P7yR5ifoJ+ug4u6jdqSTQ==
+"@react-navigation/native@7.1.18":
+  version "7.1.18"
+  resolved "https://registry.yarnpkg.com/@react-navigation/native/-/native-7.1.18.tgz#dc768403c5dfef13b0791fd546eaa213e0d879a5"
+  integrity sha512-DZgd6860dxcq3YX7UzIXeBr6m3UgXvo9acxp5jiJyIZXdR00Br9JwVkO7e0bUeTA2d3Z8dsmtAR84Y86NnH64Q==
   dependencies:
     "@react-navigation/core" "^7.12.4"
     escape-string-regexp "^4.0.0"
@@ -333,12 +333,12 @@
   dependencies:
     nanoid "^3.3.11"
 
-"@react-navigation/stack@7.4.8":
-  version "7.4.8"
-  resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-7.4.8.tgz#8f3c32753bcecabf087e337dcd6558e45ade8bb3"
-  integrity sha512-zZsX52Nw1gsq33Hx4aNgGV2RmDJgVJM71udomCi3OdlntqXDguav3J2t5oe/Acf/9uU8JiJE9W8JGtoRZ6nXIg==
+"@react-navigation/stack@7.5.0":
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-7.5.0.tgz#c79fc5d2a78cc6e9b44ddbf60965c57b85fb3ccb"
+  integrity sha512-1aGLudURsaOyyyktmaOxGbb9NGQfCtQ2Z4xt2mjMApMTQsP4d2os9D+w9qPPYUh6rwGMzoHb9A7lJ6NIk++6WA==
   dependencies:
-    "@react-navigation/elements" "^2.6.4"
+    "@react-navigation/elements" "^2.7.0"
     color "^4.2.3"
 
 "@types/hammerjs@^2.0.36":
