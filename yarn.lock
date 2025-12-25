@@ -736,10 +736,10 @@ react-native-gesture-handler@2.30.0:
     hoist-non-react-statics "^3.3.0"
     invariant "^2.2.4"
 
-react-native-google-places-autocomplete@2.6.1:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/react-native-google-places-autocomplete/-/react-native-google-places-autocomplete-2.6.1.tgz#aca33353a71081ee4501a8d2301ed3a9a3171989"
-  integrity sha512-FWL/rYiSephC8PIbGIJ5/X/RmwhXze2hLmvJ5fquhhdKrI2Fr5kgF2RzhZJYFEGgNslbDY23B8ERLsycu5sWuw==
+react-native-google-places-autocomplete@2.6.3:
+  version "2.6.3"
+  resolved "https://registry.yarnpkg.com/react-native-google-places-autocomplete/-/react-native-google-places-autocomplete-2.6.3.tgz#5e948b03b5aeac4b18fe6619b00f03663e3c0d86"
+  integrity sha512-YECthwWOKyqntq3OaMIpk2QOR1uWjKvuY70+rbz8MCU5bDKri8s8K5OrznfluuSF7qS2tmlqxNK2W5Ab6QKxyA==
   dependencies:
     lodash.debounce "^4.0.8"
     qs "~6.9.1"
