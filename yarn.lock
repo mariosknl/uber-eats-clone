@@ -315,10 +315,10 @@
   dependencies:
     nanoid "^3.3.11"
 
-"@react-navigation/stack@7.7.1":
-  version "7.7.1"
-  resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-7.7.1.tgz#6e4564dc59b34cdd00bafb376ba9cd7c130905d9"
-  integrity sha512-aVxwWkl7tMgfmFW3iiklcTvu6Bt/j5lcUzkyzn16Q+g83Ng/mNx8LoBbjpASrXTnT4tgzINLdEtxdZ7EI1+Sdw==
+"@react-navigation/stack@7.7.2":
+  version "7.7.2"
+  resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-7.7.2.tgz#80310fe0a5e289d9793bf4db588a0533a74c146b"
+  integrity sha512-dBXj+YEqfLsLQmmNyZ9lgu11N0JfpFCjjP4iEtlC1dPNNau2Rv18LEejXNU/k/fIgcfzYXFdQeiyEFW5O3f5Fw==
   dependencies:
     "@react-navigation/elements" "^2.9.5"
     color "^4.2.3"
