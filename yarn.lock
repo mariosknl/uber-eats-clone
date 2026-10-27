@@ -627,10 +627,10 @@ react-native-google-places-autocomplete@2.6.5:
   resolved "https://registry.yarnpkg.com/react-native-google-places-autocomplete/-/react-native-google-places-autocomplete-2.6.5.tgz#123063354b85928f4c4132ee3382c72ebb37e3c2"
   integrity sha512-X/CmqREA2U0Be2JfneDlfDWjMOuES6bRsI+v7jeNRDp91IeSNJQmlKXAwcpDcRXZl2/pQk/xfs1gyut/aijkJA==
 
-react-native-safe-area-context@5.10.1:
-  version "5.10.1"
-  resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-5.10.1.tgz#d05ecf41d18c1a748b49c40a700936e5235a172d"
-  integrity sha512-ax0T3cAHQIhuAjDQpJ9C1Le96aRiM9PF+Kmgg7Y8+mD7QJMEIx04cG0eG3EGUTdvymgOkCrkakgZFwuOIuNQGw==
+react-native-safe-area-context@5.11.0:
+  version "5.11.0"
+  resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-5.11.0.tgz#550f1bf2b3aa4d7d224647d07ac5de87a18cf5d5"
+  integrity sha512-+QuWQSFt9N+GXg9SEGvB+nG1FdjDd8cTTNcNxZBARu5T0n490VsoRm7CsMkEkjY0mneA342LTpkqgOKxpt5tOQ==
 
 react-native-screens@4.30.0:
   version "4.30.0"
